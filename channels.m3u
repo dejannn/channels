@@ -1,216 +1,267 @@
 #EXTM3U
-#EXTINF:0,Discovery Channel (orion)
-http://hlsl.orion.rs:1935/liveloworigin/discovery.stream/playlist.m3u8
-#EXTINF:0,National Geographic (orion)
-http://hlsl.orion.rs:1935/liveloworigin/natgeo.stream/playlist.m3u8
-#EXTINF:0,Crime & Investigation
-http://109.206.96.129:1935/live/crimeinvestigation_1m.stream/rtvuzivo.m3u8
-#EXTINF:0,Investigation Discovery X (orion)
-http://hlsl.orion.rs:1935/liveloworigin/idx.stream/playlist.m3u8
-#EXTINF:0,NAT GEO Wild (orion)
-http://hlsl.orion.rs:1935/liveloworigin/natgeowild.stream/playlist.m3u8
-#EXTINF:0,TLC (orion)
-http://hlsl.orion.rs:1935/liveloworigin/tlc.stream/playlist.m3u8
+#EXTINF:0,CBS Reality
+http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,National Geographic
+http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,Viasat Explorer
+http://cdn.iptv.amis.net/LIVE/CROEXPLORER/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,Viasat History
+http://cdn.iptv.amis.net/LIVE/CROHISTORY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,History Channel
+http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,Nat Geo Wild
+http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,Discovery Channel
+http://luckyiptv.ddns.net:23000/live/cristina/cristina/3436.ts
+#EXTINF:0,Discovery Channel
+http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,Discovery Science
+http://77.76.140.251/prgi.m3u8
 #EXTINF:0,Travel Channel
-http://sall1.homelinux.net:80/live?channelId=292&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,Pink Pedia (orion)
-http://hlsl.orion.rs:1935/liveloworigin/pinkpedia.stream/playlist.m3u8
-#EXTINF:0,Animal Planet (orion)
-http://hlsl.orion.rs:1935/liveloworigin/animalplanet.stream/playlist.m3u8
+http://46.40.5.99:8000/travel_720
+#EXTINF:0,Travel Channel
+http://cdn.iptv.amis.net/LIVE/CROTRAVEL/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1,Pink Pedia
+http://luckyiptv.ddns.net:23000/live/cristina/cristina/3429.ts
 #EXTINF:0,Viasat Nature
-http://109.206.96.129:1935/live/viasatnature_1m.stream/playlist.m3u8
-#EXTINF:0,A1 Balkan
-rtmp://176.9.45.202:22222/live/alpha1
+http://46.40.5.99:8000/viasat_nature_720
+#EXTINF:0,ID Xtra
+http://93.87.64.244:4080/udp/227.1.1.29:1000
+#EXTINF:0,RT
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:0,RT Documentary
+http://rt-a.akamaihd.net/ch_05@325609/master.m3u8
+#EXTINF:0,BBC Entertaiment
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,Animal Planet
-http://sall1.homelinux.net:80/live?channelId=76&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
+http://cdn.iptv.amis.net/LIVE/Animal/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,24 Kitchen
+http://cdn.iptv.amis.net/LIVE/CRODOQ/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,Da Vinci Learning
+http://46.40.5.99:8000/davinchi_720
+#EXTINF:0,Da Vinci Learning
+http://cdn.iptv.amis.net/ts/DaVinciLear/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,The UFO Channel
+http://veetle.com/index.php/hls/streamMbrFast/5570083766031_/stream.m3u8
+#EXTINF:0,SOS
+http://46.234.100.41:8080/sos/index.m3u8
 #EXTINF:0,Arena Sport 1
-http://5.196.14.179:2509/www.sipragezabava.com/welcome
+http://46.40.5.99:8000/arena_1_720
 #EXTINF:0,Arena Sport 2
-http://streamitv.dyndns.org:19001/live/iacopo/iacopo/1084.ts
+http://46.40.5.99:8000/arena_2_720
 #EXTINF:0,Arena Sport 3
-http://streamitv.dyndns.org:19001/live/iacopo/iacopo/1085.ts
+http://46.40.5.99:8000/arena_3_720
 #EXTINF:0,Arena Sport 4
-http://streamitv.dyndns.org:19001/live/iacopo/iacopo/1086.ts
-#EXTINF:0,ATV BL
-http://server9.balkantvmedia.com:8080/ATV_BIH?u=user1323:p=bWNDJukE
-#EXTINF:0,AXN
-http://sall1.homelinux.net:80/live?channelId=86&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,AXN
-http://sall1.homelinux.net:80/live?channelId=86&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,AXN (orion)
-http://hlsl.orion.rs:1935/liveloworigin/axn.stream/playlist.m3u8
-#EXTINF:0,B 92
-http://edge2.volim.tv/live/b92.stream/playlist.m3u8?hash=aab29b46c123f2a371d1793883d176c3caee690d
-#EXTINF:0,B 92 (orion)
-http://hlsl.orion.rs:1935/liveloworigin/b92.stream/playlist.m3u8
-#EXTINF:0,BBC LifeStyle
-http://79.160.18.47:8001/1:0:1:9C5:4:46:E080000:0:0:0:
-#EXTINF:0,Belle Amie
-rtmp://92.60.234.98/live/myStream
-#EXTINF:0,BH T1
-http://5.196.14.179:2501/www.sipragezabava.com/welcome
-#EXTINF:0,BH T1
-http://5.196.14.179:2501/www.sipragezabava.com/welcome
-#EXTINF:0,BN
-http://sall1.homelinux.net:80/live?channelId=161&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,BN TV
-http://server4.balkantvmedia.com:8080/BN_TELEVIZIJA?u=user1323:p=bWNDJukE
-#EXTINF:0,Cinemania
-http://hlsl.orion.rs:1935/liveloworigin/cinemania.stream/playlist.m3u8
-#EXTINF:0,CineStar TV Premiere 1
-http://sall1.homelinux.net:80/live?channelId=91&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,CineStar TV Premiere 2
-http://sall1.homelinux.net:80/live?channelId=92&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,DM SAT
-http://sall1.homelinux.net:80/live?channelId=64&uid=3699&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,DM SAT
-http://sall1.homelinux.net:80/live?channelId=64&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,Doma TV
-http://server4.balkantvmedia.com:8080/Doma_TV?u=user1323:p=bWNDJukE
+http://46.40.5.99:8000/arena_4_720
+#EXTINF:0,Arena Sport 1
+http://bit.ly/1QUzaoX
+#EXTINF:0,Arena Sport 3
+http://bit.ly/1N46ioj
+#EXTINF:0,Arena Sport 4
+http://bit.ly/1IFgUbm
+#EXTINF:0,Arena Sport 5
+http://bit.ly/1NpfeE3
+#EXTINF:0,Arena Sport 1
+http://luckyiptv.ddns.net:23000/live/cristina/cristina/3422.ts
+#EXTINF:-1,Arena Sport 1 HR
+http://luckyiptv.ddns.net:23000/live/cristina/cristina/3427.ts
+#EXTINF:0,Arena Sport 2
+http://luckyiptv.ddns.net:23000/live/cristina/cristina/3421.ts
+#EXTINF:0,Arena Sport 2 HR
+http://luckyiptv.ddns.net:23000/live/cristina/cristina/3426.ts
+#EXTINF:0,Arena Sport 3
+http://luckyiptv.ddns.net:23000/live/cristina/cristina/3419.ts
+#EXTINF:0,Arena Sport 3 HR
+http://luckyiptv.ddns.net:23000/live/cristina/cristina/3425.ts
+#EXTINF:0,Arena Sport 4
+http://luckyiptv.ddns.net:23000/live/cristina/cristina/3420.ts
+#EXTINF:0,Arena Sport 4 HR
+http://luckyiptv.ddns.net:23000/live/cristina/cristina/3424.ts
+#EXTINF:0,Arena Sport 5
+http://luckyiptv.ddns.net:23000/live/cristina/cristina/3423.ts
+#EXTINF:0,Arena Sport 5
+http://luckyiptv.ddns.net:23000/live/cristina/cristina/3418.ts
+#EXTINF:0,NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0,SPORT ITALIA
+http://spi.hystream.com:1935/spilive/spistream/livestream.m3u8
+#EXTINF:0,Viasat SPORT BALTIC
+http://wpc.11eb4.teliasoneracdn.net/8011EB4/origin1/tvplay/smil:VSB.smil/playlist.m3u8
+#EXTINF:0,Футбол 1
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+#EXTINF:0,CDN Sports esp
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:0,Moldova Sport 
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:0,Sport Time TV 1 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+#EXTINF:0,Sport Time TV 2 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:0,Sport Time TV 3 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:0,Sport Time TV 4 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:0,Sport Time TV 5 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:0,Sport Time TV 6 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+#EXTINF:0,Sport Time TV 7 HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+#EXTINF:0,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:0,RTL
+http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,RTL 2
+http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,HRT 1
+http://hrt.live.cdn.spectar.tv/OIV_HRT1_TV/01.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,HRT 2
+http://hrt.live.cdn.spectar.tv/OIV_HRT2_TV/01.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,HRT 3
+http://hrt.live.cdn.spectar.tv/OIV_HRT3_TV/01.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,HRT 4
+http://hrt.live.cdn.spectar.tv/OIV_HRT4_TV/01.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,Prva
+http://46.40.5.99:8000/prvatv_720
+#EXTINF:0,B92
+http://46.40.5.99:8000/b92_720
+#EXTINF:0,RTV 1
+http://46.40.5.99:8000/rtv1_720
+#EXTINF:0,RTV 2
+http://46.40.5.99:8000/rtv2_720
+#EXTINF:0,RTS Sat
+http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,Studio B
+mms://195.252.114.172/studiob
+#EXTINF:0,RTRS
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+#EXTINF:0,TVCG
+mms://195.252.114.172/tvcg
+#EXTINF:0,Hayat Plus
+http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0,Duga Plus
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
-#EXTINF:0,Eurosport
-http://server9.balkantvmedia.com:8080/EUROSPORT_1SR?u=user329:p=jAiMJONu
-#EXTINF:0,Eurosport (orion)
-http://hlsl.orion.rs:1935/liveloworigin/eurosport1.stream/playlist.m3u8
-#EXTINF:0,Eurosport 2
-http://lag2.tv-mobile.org:22637/udp/231.2.2.10:1234
-#EXTINF:0,Eurosport 2 (orion)
-http://hlsl.orion.rs:1935/liveloworigin/eurosport2.stream/playlist.m3u8
-#EXTINF:0,Face TV
-http://5.196.14.179:2505/www.sipragezabava.com/welcome
-#EXTINF:0,FOX Adria
-http://109.206.96.129:1935/live/fox_1m.stream/playlist.m3u8
-#EXTINF:0,FOX Crime
-http://server9.balkantvmedia.com:8080/FOX_crime?u=user1323:p=bWNDJukE
-#EXTINF:0,FOX Life
-http://109.206.96.129:1935/live/foxlife_1m.stream/playlist.m3u8
-#EXTINF:0,Happy (orion)
-http://hlsl.orion.rs:1935/liveloworigin/happy.stream/playlist.m3u8
-#EXTINF:0,Hayat
-http://109.206.96.129:1935/live/hayat_1m.stream/rtvuzivo.m3u8
-#EXTINF:0,Hayat Plus
-http://109.206.96.129:1935/live/hayat_plus_1m.stream/rtvuzivo.m3u8
 #EXTINF:0,Hema TV
 mmsh://77.238.209.50:1234
-#EXTINF:0,History 2 (orion)
-http://hlsl.orion.rs:1935/liveloworigin/history2.stream/playlist.m3u8
-#EXTINF:0,History Channel
-http://109.206.96.129:1935/live/historychannel_1m.stream/playlist.m3u8
-#EXTINF:0,HRT 1
-http://213.5.58.58:1935/hrt_live/smil:hrt1.smil/nesto.m3u8
-#EXTINF:0,HRT 1 (orion)
-http://hlsl.orion.rs:1935/liveloworigin/hrt1.stream/playlist.m3u8
-#EXTINF:0,HRT 2
-http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
-#EXTINF:0,HRT 3
-http://213.5.58.58:1935/hrt_live/smil:hrt3.smil/nesto.m3u8
-#EXTINF:0,HRT 4
-http://213.5.58.58:1935/hrt_live/smil:hrt4.smil/nesto.m3u8
-#EXTINF:0,Jata TV
+#EXTINF:0,Jata
 http://109.175.31.2:8525
-#EXTINF:0,K3 SAT
-http://109.206.96.129:1935/live/k3_1m.stream/rtvuzivo.m3u8
-#EXTINF:0,KCN 1
-http://178.79.24.7:9011
-#EXTINF:0,KCN 2
-http://178.79.24.7:9012
-#EXTINF:0,KCN 3
-http://4.31.30.135:1935/st3fstv/19ios_SVETPLUS_2547871/rereeer.m3u8
+#EXTINF:0,Pi
+http://vps.oneit.rs/picanal/m3u8/stream_ep_copy.m3u8?v=1429991488
+#EXTINF:0,RTV Banovina
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:0,TV 1 (BiH)
+rtsp://77.238.210.54:9710/stream1
+#EXTINF:0,TV Vrnjacka Banja
+http://79.101.44.40:8000/play/a01a
+#EXTINF:0,TV K9
+http://79.101.44.40:8000/play/a024
+#EXTINF:0,TV Krusevac
+http://79.101.44.40:8000/play/a012
+#EXTINF:0,TV Kragujevac
+http://79.101.44.40:8000/play/a025
+#EXTINF:0,TV Jedinstvo
+http://79.101.44.40:8000/play/a01g
+#EXTINF:0,TV Enigma
+http://79.101.44.40:8000/play/a020
+#EXTINF:0,TV Galaksija 32
+http://79.101.44.40:8000/play/a01r
+#EXTINF:0,TV Golija
+http://79.101.44.40:8000/play/a01v
+#EXTINF:0,TV Palma Plus
+http://79.101.44.40:8000/play/a02c
+#EXTINF:0,TV Klisura
+http://79.101.44.40:8000/play/a018
+#EXTINF:0,TV Klik
+http://79.101.44.40:8000/play/a01u
+#EXTINF:0,TV Telemark
+http://79.101.44.40:8000/play/a01q
+#EXTINF:0,TV Jefimija
+http://79.101.44.40:8000/play/a01l
+#EXTINF:0,NTV
+http://79.101.44.40:8000/play/a019
+#EXTINF:0,TV Lav Plus
+http://79.101.44.40:8000/play/a01p
+#EXTINF:0,Televizija 5 Plus
+http://79.101.44.40:8000/play/a01z
+#EXTINF:0,Televizija Plus
+http://79.101.44.40:8000/play/a01i
+#EXTINF:0,TV Melos
+http://79.101.44.40:8000/play/a02e
+#EXTINF:0,TV Cuprija
+http://79.101.44.40:8000/play/a029
+#EXTINF:0,TV Sunce
+http://79.101.44.40:8000/play/a028
+#EXTINF:0,TV 4S
+http://79.101.44.40:8000/play/a014
+#EXTINF:0,TV Prima
+http://79.101.44.40:8000/play/a021
+#EXTINF:0,TV Tutin
+http://79.101.44.40:8000/play/a01h
+#EXTINF:0,TV Laser
+http://79.101.44.40:8000/play/a01e
+#EXTINF:0,RTV Kanal M
+http://79.101.44.40:8000/play/a02a
+#EXTINF:0,TV Kraljevo
+http://79.101.44.40:8000/play/a01o
+#EXTINF:0,MOSTNET
+http://79.101.44.40:8000/play/a017
+#EXTINF:0,TV Pozega
+http://79.101.44.40:8000/play/a01t
+#EXTINF:0,TV Kursumlija
+http://79.101.44.40:8000/play/a015
+#EXTINF:0,TV BELLE AMMIE
+http://79.101.44.40:8000/play/a011
+#EXTINF:0,TV Diskos
+http://79.101.44.40:8000/play/a02d
+#EXTINF:0,TV Jasenica
+http://79.101.44.40:8000/play/a027
+#EXTINF:0,TV Raska
+http://79.101.44.40:8000/play/a01f
+#EXTINF:0,TV Jagodina
+http://79.101.44.40:8000/play/a026
+#EXTINF:0,TV Forum
+http://79.101.44.40:8000/play/a01w
+#EXTINF:0,TV Trstenik
+http://79.101.44.40:8000/play/a02f
+#EXTINF:0,TV Leskovac
+http://79.101.44.40:8000/play/a016
+#EXTINF:0,KA TV
+http://79.101.44.40:8000/play/a01x
+#EXTINF:0,TV Priboj
+http://79.101.44.40:8000/play/a01y
+#EXTINF:0,FOX
+http://slavoljub:mitrovic@balkantv.co.uk:8080/str80b?lista=slavoljub:mitrovic
+#EXTINF:0,FOX Crime
+http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,FOX Life
+http://cdn.iptv.amis.net/LIVE/FOXLIFEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,FOX Movies
+http://slavoljub:mitrovic@balkantv.co.uk:8080/str75b?lista=slavoljub:mitrovic
+#EXTINF:0,Cinemax 1
+http://slavoljub:mitrovic@balkantv.co.uk:8080/str64?lista=slavoljub:mitrovic
+#EXTINF:0,CineStar TV
+http://slavoljub:mitrovic@balkantv.co.uk:8080/str74?lista=slavoljub:mitrovic
+#EXTINF:0,CineStar Premiere
+http://slavoljub:mitrovic@balkantv.co.uk:8080/str65?lista=slavoljub:mitrovic
+#EXTINF:0,CineStar Premiere 2
+http://slavoljub:mitrovic@balkantv.co.uk:8080/str66?lista=slavoljub:mitrovic
+#EXTINF:0,Universal Channel
+http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,DTV Kino
+http://globcast.eu:8050
 #EXTINF:0,Klasik TV
-http://sall1.homelinux.net:80/live?channelId=100&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,Klasik TV
-http://sall1.homelinux.net:80/live?channelId=100&uid=3699&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,Mreza TV 1 
-http://5.196.14.179:2506/www.sipragezabava.com/welcome
-#EXTINF:0,N1 (orion)
-http://hlsl.orion.rs:1935/liveloworigin/n1.stream/playlist.m3u8
-#EXTINF:0,Nova RS
-http://balkanstream.com/stream/novars/hospa042/f95de998
-#EXTINF:0,Nova TV
-http://5.196.14.179:2503/www.sipragezabava.com/welcome
-#EXTINF:0,Novosadska TV
-http://176.106.121.32:8080/
-#EXTINF:0,OBN
-http://5.196.14.179:2502/www.sipragezabava.com/welcome
-#EXTINF:0,OT Valentino
-http://4.31.30.135:1935/st3fstv/20ios_VALENTINO_4584512/playlist.m3u8
-#EXTINF:0,OTV Valentino
-http://sall1.homelinux.net:80/live?channelId=116&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,Pink (orion)
-http://hlsl.orion.rs:1935/liveloworigin/pink.stream/playlist.m3u8
-#EXTINF:0,Pink 2 (orion)
-http://178.253.194.68:1935/liveloworigin/pink2.stream/playlist.m3u8
-#EXTINF:0,Pink BH
-http://5.196.14.179:2507/www.sipragezabava.com/welcome
-#EXTINF:0,Pink BH
-http://sall1.homelinux.net:80/live?channelId=23&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,Pink Classic
-http://sall1.homelinux.net:80/live?channelId=12&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,Pink Classic (orion)
-http://178.253.194.68:1935/liveloworigin/pinkclassic.stream/playlist.m3u8
-#EXTINF:0,Pink Comedy
-http://srv2.narodnatv.info:80/live?channelId=38&uid=3699&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,Pink Film (orion)
-http://hlsl.orion.rs:1935/liveloworigin/pinkfilm.stream/playlist.m3u8
-#EXTINF:0,Pink Film (orion)
-http://178.253.194.68:1935/liveloworigin/pinkfilm.stream/playlist.m3u8
-#EXTINF:0,Pink Horror
-http://sall1.homelinux.net:80/live?channelId=33&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,Pink Kuvar (orion)
-http://hlsl.orion.rs:1935/liveloworigin/pinkkuvar.stream/playlist.m3u8
-#EXTINF:0,Pink M
-http://sall1.homelinux.net:80/live?channelId=126&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,Pink Music (orion)
-http://hlsl.orion.rs:1935/liveloworigin/pinkmusic.stream/playlist.m3u8
-#EXTINF:0,Pink Reality (orion)
-http://hlsl.orion.rs:1935/liveloworigin/pinkreality.stream/playlist.m3u8
-#EXTINF:0,Pink Soap
-http://srv2.narodnatv.info:80/live?channelId=41&uid=3699&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,Prva TV (orion)
-http://178.253.194.68:1935/liveloworigin/prva.stream/playlist.m3u8
-#EXTINF:0,Prva TV (orion)
-http://hlsl.orion.rs:1935/liveloworigin/prva.stream/playlist.m3u8
-#EXTINF:0,r
-http://sall1.homelinux.net:80/live?channelId=162&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,RTL 2
-http://sangajstream.dyndns.biz/live?channelId=59&uid=3699&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,RTL Crime
-http://stream.narodnatv.info:80/live?channelId=467&uid=3699&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,RTS 1
-http://edge3.volim.tv/live/rts_1.stream/playlist.m3u8?hash=b41f0004622208f5f938b0bd2754ed47ec0370e9
-#EXTINF:0,RTS 1 (orion)
-http://hlsl.orion.rs:1935/liveloworigin/rts1.stream/playlist.m3u8
-#EXTINF:0,RTS 1 (orion)
-http://178.253.194.68:1935/liveloworigin/rts1.stream/playlist.m3u8
-#EXTINF:0,RTS 2 (orion)
-http://hlsl.orion.rs:1935/liveloworigin/rts2.stream/playlist.m3u8
-#EXTINF:0,RTV 1
-http://sall1.homelinux.net:80/live?channelId=163&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,RTV 1 (orion)
-http://hlsl.orion.rs:1935/liveloworigin/rtv1.stream/playlist.m3u8
-#EXTINF:0,RTV Crna Gora
-mms://beotelmedia.beotel.net/tvcg
-#EXTINF:0,Sport Klub 1
-http://5.196.14.179:2508/www.sipragezabava.com/welcome
-#EXTINF:0,Sport Klub 3
-http://server4.balkantvmedia.com:8080/Sport_Klub_3HD?u=user329:p=jAiMJONu
-#EXTINF:0,Studio B (orion)
-http://hlsl.orion.rs:1935/liveloworigin/studiob.stream/playlist.m3u8
-#EXTINF:0,STV Osijek
-mms://89.201.164.181/stv
-#EXTINF:0,Tesla Vision
-http://94.230.178.58:8090
-#EXTINF:0,TLC
-http://109.206.96.129:1935/live/tlc_1m.stream/playlist.m3u8
-#EXTINF:0,TLC
-http://alphaone.dyndns.tv:1293/live?channelId=55&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,Top Music
-http://u.to/ZjoPBg
-http://178.253.194.68:1935/liveloworigin/_definst_/rtv2.stream/chunklist_w2118390762.m3u8
-#EXTINF:0,TRT Okul
-http://sall1.homelinux.net:80/live?channelId=184&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,TV 1000
-http://srv2.narodnatv.info:80/live?channelId=56&uid=3570&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
-#EXTINF:0,Z1
-http://sall1.homelinux.net:80/live?channelId=247&uid=851&deviceUser=stalker387NARODNATV&devicePass=Afm9ytmf7qA
+http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,MTV Adria
+http://46.40.5.99:8000/mtvadria_720
+#EXTINF:0,MTV Adria
+http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,VH1
+http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,ICONCERTS
+http://cdn.iptv.amis.net/ts/ICONCERTS/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0, HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:0,Trace Urban
+http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_urban-tablet.3gp/trace_tv_urban-tablet.3gp-mr647k.m3u8?trackingid=4041670000&os=desktop
